@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
+Phishing attacks pose a persistent threat to online users, endangering their data, finances, and digital well-being. The first quarter of 2022 witnessed over a million reported phishing attacks, affecting more than 7 million devices globally, as per the APWG's Phishing Activity Trends Report. Traditional anti-phishing tools offer some defense but often compromise user privacy by centrally collecting browsing data for analysis. Enter the PhishGuard project—an innovative solution designed to transform the anti-phishing landscape by introducing a privacy-preserving browser plugin.
 
 PhishGuard is an open-source, privacy-preserving anti-phishing plugin for web browsers. It leverages cutting-edge machine learning algorithms and decentralized technologies like Zero-Knowledge Proofs (ZKPs) and Federated Learning (FL) to effectively identify and mitigate phishing threats while ensuring user data privacy. This README provides an overview of the project, installation instructions, usage guidelines, and more.
 
